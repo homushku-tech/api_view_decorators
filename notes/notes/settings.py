@@ -67,6 +67,9 @@ INSTALLED_APPS = [
     'drf_spectacular_sidecar',
 
     'api.task1',
+    'api.task2',
+    'api.task3',
+    'api.task4',
 ]
 
 MIDDLEWARE = [

@@ -1,3 +1,4 @@
 from django.contrib import admin
+from api.task1.models import Note
 
-# Register your models here.
+admin.site.register(Note)
